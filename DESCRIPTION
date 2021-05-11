@@ -1,0 +1,15 @@
+Package: catRpillar
+Title: Functions to Process Categorisation Data According to Different Approaches
+Version: 0.0.1
+Authors@R: 
+    person(given = "Etienne",
+           family = "Gaudrain",
+           role = c("aut", "cre"),
+           email = "etienne.gaudrain@cnrs.fr",
+           comment = c(ORCID = "0000-0003-0490-0295"))
+Description: The catRpillar package provides functions to process categorisation data according to different approaches.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1.9001
